@@ -1,0 +1,21 @@
+/**
+ * @name marlowthumbnail Theme
+ * @author FromWisconsin#0001
+ * @version 1
+ * @description created for memes
+ * @source check desc in code
+*/
+/*FromWisconsin here, I pulled this code from the devs of the DarkMatter theme for discord, I liked it and wanted to add a funny inside joke to it! ty ^_^ */
+@import url('https://DiscordStyles.github.io/DarkMatter/src/base.css');
+
+/* Variables */
+:root {
+    --avatar-size: 32px;
+    --background-image: url('https://imgur.com/a/vPjdVCd');
+    --home-image: url('https://imgur.com/a/l7RG0Nf');
+    --background-solid: #161921;
+    --background-solid-dark: #101218;
+    --background-solid-darker: #0c0e12;
+    --accent: 37, 172, 232;
+    --accent-alt: 29, 101, 134;
+}
